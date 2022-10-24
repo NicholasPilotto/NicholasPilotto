@@ -3,7 +3,7 @@
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning mobile development
 - 👨‍🎓 Computer Science student @ UniPD
----
+##
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=NicholasPilotto&show_icons=true&theme=darcula" width = 400\>
