@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @NicholasPilotto
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Nicholas Pilotto</h3>
+
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning mobile development
 
