@@ -1,7 +1,7 @@
 ## Hi 👋 I am Nicholas! 
 
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning mobile development and Java language
+- 🌱 I’m currently learning back-end development, Spring Boot and Java
 - 👨‍🎓 Computer Science student @ UniPD
 ##
 <p>
