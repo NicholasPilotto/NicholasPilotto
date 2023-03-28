@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning back-end development, Spring Boot and Java
-- 👨‍🎓 Computer Science student @ UniPD
+- 👨‍🎓 Graduated in Computer Science @ UniPD
+- 👨‍💻 Mobile Developer @ TouchMultimedia
+- 🐉 Clean code lover
 ##
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NicholasPilotto&show_icons=true&theme=darcula" width=400 height=200 />
