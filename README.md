@@ -3,7 +3,7 @@
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning back-end development, Spring Boot and Java
 - 👨‍🎓 Bachelor's degree in Computer Science @ UniPD
-- 👨‍💻 Back end Developer @ TouchMultimedia
+- 👨‍💻 Full stack developer @ TouchMultimedia
 - 🐉 Clean code lover
 ##
 <p>
