@@ -1,9 +1,9 @@
 ## Hi 👋 I am Nicholas! 
 
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning back-end development, Spring Boot and Java
+- 👀 Microservices Architecture
+- 🌱 I’m currently learning back-end development
 - 👨‍🎓 Bachelor's degree in Computer Science @ UniPD
-- 👨‍💻 Full stack developer @ TouchMultimedia
+- 👨‍💻 Full stack developer @ Replatz
 - 🐉 Clean code lover
 ##
 
