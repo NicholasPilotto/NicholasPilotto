@@ -3,7 +3,7 @@
 - 👀 Microservices Architecture
 - 🌱 I’m currently learning back-end development
 - 👨‍🎓 Bachelor's degree in Computer Science @ UniPD
-- 👨‍💻 Full stack developer @ Replatz
+- 👨‍💻 Full stack developer @replatz
 - 🐉 Clean code lover
 ##
 
