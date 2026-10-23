@@ -11,10 +11,10 @@ Currently working as a Full Stack Developer at @replatz, with a Bachelor's degre
 I'm particularly interested in backend engineering, microservices, and the architectural decisions that make software reliable and easy to evolve.
 
 What I'm into
-🏗️ Software Architecture — designing modular, scalable systems
-⚙️ Backend Development — APIs, services, and distributed systems
-🧼 Clean Code — readable, maintainable, and well-structured software
-🌱 Continuous Learning — always exploring better ways to build software
+- 🏗️ Software Architecture — designing modular, scalable systems
+- ⚙️ Backend Development — APIs, services, and distributed systems
+- 🧼 Clean Code — readable, maintainable, and well-structured software
+- 🌱 Continuous Learning — always exploring better ways to build software
 
 GitHub Stats
 
